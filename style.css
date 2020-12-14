@@ -1,0 +1,38 @@
+ body{      
+        font-family: sans-serif;
+        background-color:#d3dbde;
+        text-align: justify;
+    }
+
+p.parrafo1{
+    background-color: hsl(200, 15%, 75%);
+    }
+h1.encabezado{
+    font-size: 250%;
+    text-align: center;
+    color: #333333;
+    }
+footer.dreta{
+    text-align: right;
+    font-weight: bold;
+    font-style: oblique;
+    background-color: white;
+    }
+.azul{
+    color:hsl(200, 100%, 40%);
+    }
+h3.subrayado{
+    background-color: hsl(200, 15%, 55%);
+    color: hsl(200, 15%, 30%);
+    font-size: 200%;
+    text-decoration: underline;
+    }
+h2.idioma{
+    background-color: hsl(200, 15%, 65%);
+    color: hsl(200, 15%, 40%);
+    font-size: 130%;
+    font-style: italic;
+    }
+p.fondo{
+    background-color:#b6c2c9;
+    }
